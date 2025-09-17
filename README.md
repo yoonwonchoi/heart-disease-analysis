@@ -1,5 +1,8 @@
 # Heart Disease Analysis (UCI Dataset)
 
+## Project Report
+- 📄 [Download PDF Report](./Portfolio/heart_disease_analysis.pdf)
+
 This project explores the **UCI Heart Disease dataset** using Python (pandas, matplotlib, seaborn).  
 The goal is to analyze key clinical features and visualize the relationship between demographics, cholesterol, blood pressure, and heart disease.
 
