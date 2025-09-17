@@ -44,4 +44,5 @@
 - **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn
 - **Tools**: Jupyter Notebook, Anaconda, Git/GitHub
 
-- Made with by Yoonwon Ashley Choi
+---
+<p align="center">Made with by Yoonwon Ashley Choi</p>
