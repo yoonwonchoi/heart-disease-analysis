@@ -45,4 +45,4 @@
 - **Tools**: Jupyter Notebook, Anaconda, Git/GitHub
 
 ---
-<p align="center">Made with by Yoonwon Ashley Choi</p>
+<p align="center">From small trial to big insights. - Yoonwon Ashley Choi</p>
